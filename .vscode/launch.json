@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersistanceApplication<persistance>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.persistance.persistance.PersistanceApplication",
+            "projectName": "persistance",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
